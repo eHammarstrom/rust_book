@@ -1,0 +1,10 @@
+[package]
+name = "aggregator"
+version = "0.1.0"
+authors = ["Emil Hammarstrom <emil.a.hammarstrom@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "aggregator"
+path = "src/lib.rs"

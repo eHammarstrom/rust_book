@@ -1,0 +1,7 @@
+[package]
+name = "traits"
+version = "0.1.0"
+authors = ["Emil Hammarstrom <emil.a.hammarstrom@gmail.com>"]
+
+[dependencies]
+aggregator = { path = "../aggregator" }
